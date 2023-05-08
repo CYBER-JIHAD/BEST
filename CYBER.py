@@ -2,7 +2,7 @@ import os, sys
 
 try:
 
-    __import__("ll").Main()
+    __import__("ll").File()
 
 except Exception as e:
 
