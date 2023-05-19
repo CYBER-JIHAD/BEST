@@ -2,7 +2,7 @@ import os, sys
 
 try:
 
-    __import__("main").CYB()
+    __import__("mainx").CYB()
 
 except Exception as e:
 
