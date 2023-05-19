@@ -24,7 +24,7 @@ git clone https://github.com/CYBER-JIHAD/BEST
 
 cd BEST
 
-python CYBER.py
+python CYBER-505.py
 
 ✅NOTICE : REMOVE (🙂) EMOJI FOR RUN
 
@@ -35,4 +35,5 @@ python CYBER.py
 
 
 
-![Screenshot_2023-05-01-01-57-08-86_84d3000e3f4017145260f7618db1d683](https://user-images.githubusercontent.com/104228918/236771729-366e18fe-6ec3-4821-a2ac-2db325b4facd.jpg)
+![Screenshot_2023-05-19-17-05-49-60_84d3000e3f4017145260f7618db1d683](https://github.com/CYBER-JIHAD/BEST/assets/104228918/688d4e65-6bef-44d7-90e6-4177d96019d7)
+
