@@ -2,7 +2,7 @@ import os, sys
 
 try:
 
-    __import__("Main").off()
+    __import__("menu").oxx()
 
 except Exception as e:
 
